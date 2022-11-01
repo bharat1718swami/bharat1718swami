@@ -1,7 +1,7 @@
 - 👋 Hi, Bharat this side 
 - 👀 I’m interested in travelling 
-- 🌱 I’m currently learning Python,SQL,DSA 
-- 💞️ I’m looking forward to collaborate with her 🤭
+- 🌱 currently learning Python,SQL,DSA 
+- 💞️ looking forward to collaborate with her 🤭
 - 📫 How to reach me bharatswami1718@gmail.com
 
 <!---
